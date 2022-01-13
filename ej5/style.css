@@ -1,0 +1,27 @@
+.grises {
+filter: grayscale(100%);
+}
+.desenfoque {
+filter: blur(4px);
+}
+.sepia {
+filter: sepia(100%);
+}
+.saturacion {
+filter: saturate(7);
+}
+.opacidad {
+filter: opacity(50%);
+}
+.brillo {
+filter: brightness(0.3);
+}
+.contraste {
+filter: contrast(180%);
+}
+.rotacion {
+filter: hue-rotate(180deg);
+}
+.negativo {
+filter: invert(100%);
+}
